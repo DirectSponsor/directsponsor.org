@@ -1,0 +1,28 @@
+# Build artifacts
+*.bak
+*.tmp
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Deployment scripts
+deploy.sh
+deploy-*.sh
+
+# Logs
+*.log
+
+# CMS files
+cms/
+
+# Temporary files
+dist/
+build/
