@@ -1,5 +1,9 @@
 # DirectSponsor.org Website
 
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/DirectSponsor/directsponsor.org)
+
+**Live site: [directsponsor.org](https://directsponsor.org/)**
+
 Static website for the Direct Sponsor Society charity organization.
 
 ## Current Status (2025-06-23)
